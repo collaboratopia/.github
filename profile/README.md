@@ -4,7 +4,7 @@
     <h6>
         <img src="" height="60" /> Meet ~~Foxy~~! Our Mascot! 🤝 <img src="" height="60" />
     </h6>
-    <p> This community is an inclusive bunch of Frontend, Backend
+    <p> This community is an inclusive bunch of Frontend, Backend and Full Stack developers all of whom are interested in Open Source! </p>
     <p> This organisation is the home of <i> open source</i>! Make Pull Requests, open Issues, share ideas, help each other and make improvements!</p>
 </div>
 
@@ -13,9 +13,6 @@
 
 <h2>Steps to get started</h2>
 <ul>
-    <li>1. Join the EddieHub GitHub Org by raising an <a href="">issue</a> (you will receive an invitation)</li>
-    <li>2. Join our Collaboratopia <a href="https://discord.gg/AxymMpZzJv">Discord</a> community, where you can chat with the community and also ask any questions</li>
+    <li>1. Join the Collaboratopia GitHub Org.</li>
+    <li>2. Join our Collaboratopia <a href="https://discord.gg/AxymMpZzJv">Discord</a> community, where you can chat with the community and also ask any questions.</li>
 </ul>
-
-<p>Learn more about GitHub, Open Source and EddieHub by subscribing to Eddie on <a href="http://youtube.com/eddiejaoude">YouTube</a></p>
-</p>
